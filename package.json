@@ -1,0 +1,33 @@
+{
+  "name": "avet-amp",
+  "version": "0.1.0",
+  "description": "avet amp",
+  "avetPlugin": {
+    "name": "amp"
+  },
+  "keywords": ["avet", "avetPlugin", "avet-plugin", "amp"],
+  "scripts": {
+    "build": "avet-bin build",
+    "prepublish": "avet-bin build"
+  },
+  "devDependencies": {
+    "avet-bin": "^0.6.1",
+    "react": "^16.0.0",
+    "react-dom": "^16.0.0",
+    "babel-eslint": "^8.0.2",
+    "eslint": "^4.10.0",
+    "eslint-config-avet": "^0.3.8"
+  },
+  "author": "okoala <dapixp@gmail.com>",
+  "engines": {
+    "node": ">= 8.0.0"
+  },
+  "tnpm": {
+    "mode": "npm"
+  },
+  "files": ["config", "page", "extend", "dist", "app.js"],
+  "ci": {
+    "version": "8"
+  },
+  "license": "MIT"
+}
