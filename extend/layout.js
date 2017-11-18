@@ -8,7 +8,6 @@ const AMPHtml = {
 
 const AMPHead = {
   content: [
-    <meta charSet="utf-8" />,
     <link rel="canonical" href="/" />,
     <meta name="viewport" content="width=device-width,minimum-scale=1" />,
     <link
