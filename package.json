@@ -11,12 +11,12 @@
     "prepublish": "avet-bin build"
   },
   "devDependencies": {
-    "avet-bin": "^0.6.1",
-    "react": "^16.0.0",
-    "react-dom": "^16.0.0",
-    "babel-eslint": "^8.0.2",
-    "eslint": "^4.10.0",
-    "eslint-config-avet": "^0.3.8"
+    "avet-bin": "0.6.1",
+    "react": "16.2.0",
+    "react-dom": "16.2.0",
+    "babel-eslint": "8.1.2",
+    "eslint": "4.14.0",
+    "eslint-config-avet": "0.3.11"
   },
   "author": "okoala <dapixp@gmail.com>",
   "engines": {
