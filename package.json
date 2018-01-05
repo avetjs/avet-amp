@@ -11,7 +11,7 @@
     "prepublish": "avet-bin build"
   },
   "devDependencies": {
-    "avet-bin": "0.6.1",
+    "avet-bin": "0.7.4",
     "react": "16.2.0",
     "react-dom": "16.2.0",
     "babel-eslint": "8.1.2",
